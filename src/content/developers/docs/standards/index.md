@@ -48,6 +48,7 @@ More detailed information on these different types and categories can be found i
 - [ERC-777](/developers/docs/standards/tokens/erc-777/) - **(NOT RECOMMENDED)** A token standard improving over ERC-20.
 - [ERC-1155](/developers/docs/standards/tokens/erc-1155/) - A token standard which can contain both fungible and non-fungible assets.
 - [ERC-4626](/developers/docs/standards/tokens/erc-4626/) - A tokenized vault standard designed to optimize and unify the technical parameters of yield-bearing vaults.
+- [ERC-4337](src/content/developers/docs/standards/tokens/erc-4337.md) -An Ethereum standard that enables account abstraction, allowing user accounts to become smart accounts without modifying the consensus layer. This enables a single account to have the combined functionalities of smart contracts and Externally Owned Accounts (EOAs).
 
 Learn more about [token standards](/developers/docs/standards/tokens/).
 
